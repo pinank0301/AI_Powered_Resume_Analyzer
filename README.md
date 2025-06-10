@@ -27,5 +27,4 @@ A smart Resume Analyzer web app built using **Genetic Algorithms** to match resu
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/resume-analyzer-ga.git
-cd resume-analyzer-ga
+git clone https://github.com/pinank0301/AI_Powered_Resume_Analyzer.git
